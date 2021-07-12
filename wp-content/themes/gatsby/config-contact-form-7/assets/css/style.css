@@ -1,0 +1,93 @@
+
+.widget div.wpcf7 {
+	padding: 0;
+	border: none;
+}
+
+	.wpcf7-form .row:not(:last-child) { margin-bottom: 15px; }
+
+	.wpcf7-display-none { display: none; }
+
+	.vc_row-has-fill .wpcf7 input:not([type="submit"]),
+	.vc_row-has-fill .wpcf7 textarea,
+	.vc_row-has-fill .wpcf7 select {
+		background-color: #fff;
+	}
+
+	.vc_col-sm-4 .wpcf7 input:not([type="submit"]),
+	.vc_col-sm-4 .wpcf7 textarea {
+		background-color: #f9f9f9;
+	}
+	
+	.wpcf7 textarea { height: 90px; }
+
+	.wpcf7 select {
+		width: 100%;
+		color: #5f6366;
+		border-radius: 22px;
+		height: 45px;
+		padding: 5px 25px;
+		border: 1px solid #d9d9d9;
+		background-color: #f9f9f9;
+		background-image: url('../../../images/select-arrow.png');
+		background-position: 98% center;
+		background-repeat: no-repeat;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		-webkit-transition: box-shadow .35s ease, border-color .35s ease;
+		transition: box-shadow .35s ease, border-color .35s ease;
+		-webkit-appearance: none;
+		   -moz-appearance: none;
+				appearance: none;
+	}
+
+	.wpcf7-submit {
+		display: inline-block;
+		float: right;
+		margin-top: 25px;
+		letter-spacing: 1.5px;
+		text-align: center;
+		font-size: 14px;
+		line-height: 22px;
+		font-weight: 700;
+		color: #fff;
+		background-color: #28abe3;
+		text-transform: uppercase;
+		font-family: 'Raleway', sans-serif;
+		border: 3px solid #28abe3;
+		border-radius: 29px;
+		padding: 16px 76px 14px;
+		box-shadow: 0 7px 30px 0 rgba(51, 51, 51, .3);
+
+		-webkit-transition: color .5s ease-in, background-color .5s ease-in, border-color .5s ease-in;
+				transition: color .5s ease-in, background-color .5s ease-in, border-color .5s ease-in;
+	}
+
+	.wpcf7-submit:hover {
+		color: #28abe3;
+		background: transparent;
+
+		-webkit-transition: color .1s ease-in, background-color .1s ease-in, border-color .1s ease-in;
+				transition: color .1s ease-in, background-color .1s ease-in, border-color .1s ease-in;
+	}
+
+	.vc_col-sm-4 .wpcf7-submit {
+		float: none;
+		width: 100%;
+	}
+
+	.vc_col-sm-8 .wpcf7-submit {
+		float: none;
+		margin: 25px auto 0;
+		display: block;
+	}
+
+	@media only screen and ( max-width: 767px ) {
+
+		.wpcf7 {
+			padding-left: 15px;
+			padding-right: 15px;
+		}
+
+	}

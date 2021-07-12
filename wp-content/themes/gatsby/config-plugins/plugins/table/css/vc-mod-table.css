@@ -1,0 +1,204 @@
+
+.gt-table-holder.wpb_mad_table {
+	overflow: hidden;
+	position: relative;
+	border: 2px solid #d9d9d9;
+	border-radius: 8px;
+}
+
+	.gt-table-holder.wpb_mad_table table {
+		margin-bottom: 0;
+		width: 100%;
+		table-layout: fixed;
+		border-collapse: collapse;
+	}
+
+		.gt-table-holder.wpb_mad_table table .vc-th {
+			font-size: 16px;
+			line-height: 1.4em;
+			font-weight: 700;
+			font-family: 'Raleway', sans-serif;
+			text-transform: uppercase;
+			letter-spacing: 1px;
+			color: #2c3035;
+		}
+
+		.gt-table-holder.wpb_mad_table table td {
+			border: 2px solid #d9d9d9;
+			vertical-align: middle;
+			background-color: #fff;
+		}
+
+		.vc-table-plugin-theme-simple_purple,
+		.vc-table-plugin-theme-simple_orange,
+		.vc-table-plugin-theme-simple_pink,
+		.vc-table-plugin-theme-simple_blue,
+		.vc-table-plugin-theme-simple_green,
+		.gt-table-holder.wpb_mad_table table td.vc_table_cell,
+		.vc-table-plugin-theme-simple
+		{
+			border: 2px solid #d9d9d9;
+		}
+
+		.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_orange tr.vc-th td,
+		.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_purple tr.vc-th td,
+		.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_pink tr.vc-th td,
+		.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_blue tr.vc-th td,
+		.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_green tr.vc-th td {
+			border-bottom-width: 0;
+		}
+
+		.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_orange tr.vc-th + tr td,
+		.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_purple tr.vc-th + tr td,
+		.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_pink tr.vc-th + tr td,
+		.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_blue tr.vc-th + tr td,
+		.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_green tr.vc-th + tr td
+		{
+			border-top-width: 0;
+		}
+
+		table.vc-table-plugin-theme-simple tr.vc-th td { background-color: #fcfcfc; }
+
+		.gt-table-holder.wpb_mad_table .vc-table-plugin-theme-simple td.vc_table_cell {
+			border-left-width: 0;
+			border-right-width: 0;
+		}
+
+		.gt-table-holder.wpb_mad_table .vc_table_cell { padding: 0; }
+
+			.gt-table-holder.wpb_mad_table tr.vc-th span.vc_table_content {
+				padding: 16px 50px 13px;
+			}
+
+			.gt-table-holder.wpb_mad_table span.vc_table_content {
+				display: block;
+				padding: 12px 50px 11px;
+			}
+
+			.vc_col-sm-6 .gt-table-holder.wpb_mad_table tr.vc-th span.vc_table_content {
+				padding: 16px;
+			}
+
+			.vc_col-sm-6 .gt-table-holder.wpb_mad_table span.vc_table_content {
+				padding: 12px 16px 11px;
+			}
+
+			.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-default tr:hover > td,
+			.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-classic tr:hover > td {
+				background-color: #fff;
+				-webkit-transition: background-color .1s ease;
+						transition: background-color .1s ease;
+			}
+
+			.gt-table-holder.wpb_mad_table .vc-th:hover > td { background-color: transparent; }
+
+	/** Classic **/
+
+	table[class*="vc-table-plugin-theme-classic"] {
+		border-width: 0;
+	}
+
+		.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-classic tr.vc-th td,
+		.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-classic tr:nth-child(2n+1),
+		.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-classic tr:hover { background-color: transparent; }
+
+		.gt-table-holder.wpb_mad_table table[class*="vc-table-plugin-theme-classic"] .vc-th .vc_table_cell {
+			padding: 0;
+		}
+
+		.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-classic tr.vc-th td,
+		.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-classic td {
+			border: 2px solid #d9d9d9;
+			vertical-align: middle;
+			background-color: #fff;
+		}
+
+	/** Purple **/
+
+	table.vc-table-plugin-theme-simple_purple tr.vc-th td {
+		border-color: #d9d9d9;
+		background-color: #4A4683;
+		color: #fcfcfc;
+	}
+
+	.gt-table-holder.wpb_mad_table .vc-table-plugin-theme-simple_purple td.vc_table_cell {
+		border-left-width: 0;
+		border-right-width: 0;
+	}
+
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-classic_purple tr.vc-th,
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-classic_purple tr.vc-th:hover,
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_purple tr.vc-th,
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_purple tr.vc-th:hover { background-color: #4A4683; }
+
+	/** Orange **/
+
+	table.vc-table-plugin-theme-simple_orange tr.vc-th td {
+		border-color: #d9d9d9;
+		background-color: #ffac14;
+		color: #fcfcfc;
+	}
+
+	.gt-table-holder.wpb_mad_table .vc-table-plugin-theme-simple_orange td.vc_table_cell {
+		border-left-width: 0;
+		border-right-width: 0;
+	}
+
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-classic_orange tr.vc-th,
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-classic_orange tr.vc-th:hover,
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_orange tr.vc-th,
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_orange tr.vc-th:hover { background-color: #ffac14; }
+
+	/** Pink **/
+
+	table.vc-table-plugin-theme-simple_pink tr.vc-th td {
+		border-color: #d9d9d9;
+		background-color: #f64747;
+		color: #fcfcfc;
+	}
+
+	.gt-table-holder.wpb_mad_table .vc-table-plugin-theme-simple_pink td.vc_table_cell {
+		border-left-width: 0;
+		border-right-width: 0;
+	}
+
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-classic_pink tr.vc-th,
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-classic_pink tr.vc-th:hover,
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_pink tr.vc-th,
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_pink tr.vc-th:hover { background-color: #f64747; }
+
+	/** Blue **/
+
+	table.vc-table-plugin-theme-simple_blue tr.vc-th td {
+		border-color: #d9d9d9;
+		background-color: #28abe3;
+		color: #fcfcfc;
+	}
+
+	.gt-table-holder.wpb_mad_table .vc-table-plugin-theme-simple_blue td.vc_table_cell {
+		border-left-width: 0;
+		border-right-width: 0;
+	}
+
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-classic_blue tr.vc-th,
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-classic_blue tr.vc-th:hover,
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_blue tr.vc-th,
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_blue tr.vc-th:hover { background-color: #28abe3; }
+
+	/** Green **/
+
+	table.vc-table-plugin-theme-simple_green tr.vc-th td {
+		border-color: #d9d9d9;
+		background-color: #98c407;
+		color: #fcfcfc;
+	}
+
+	.gt-table-holder.wpb_mad_table .vc-table-plugin-theme-simple_green td.vc_table_cell {
+		border-left-width: 0;
+		border-right-width: 0;
+	}
+
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-classic_green tr.vc-th,
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-classic_green tr.vc-th:hover,
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_green tr.vc-th,
+	.gt-table-holder.wpb_mad_table table.vc-table-plugin-theme-simple_green tr.vc-th:hover { background-color: #98c407; }

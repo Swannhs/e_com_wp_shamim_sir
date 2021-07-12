@@ -1,0 +1,529 @@
+::-moz-selection {
+	background-color: #28abe3;
+}
+::selection {
+	background-color: #28abe3;
+}
+body {
+	font-family: Crimson Text;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 36px;
+	color: #5f6366;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: left bottom;
+}
+h1 {
+	font-family: Raleway;
+	font-weight: 800;
+	font-size: 58px;
+	line-height: 68px;
+	color: #2c3035;
+}
+h2 {
+	font-family: Raleway;
+	font-weight: 700;
+	font-size: 50px;
+	line-height: 54px;
+	color: #2c3035;
+}
+h3 {
+	font-family: Raleway;
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 40px;
+	color: #2c3035;
+}
+h4 {
+	font-family: Raleway;
+	font-weight: 700;
+	font-size: 30px;
+	line-height: 34px;
+	color: #2c3035;
+}
+h5 {
+	font-family: Raleway;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	color: #2c3035;
+}
+h6 {
+	font-family: Raleway;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 24px;
+	color: #2c3035;
+}
+a {
+	color: #2c3035;
+}
+a:hover {
+	color: #28abe3;
+}
+.gt-entries-holder.gt-type-1 .gt-entry-meta a:hover,
+.gt-entries-holder.gt-type-1 .gt-entry-cats a:hover {
+	color: #28abe3;
+}
+.gt-entries-holder.gt-type-2 .gt-entry-meta a:hover,
+.gt-entries-holder.gt-type-2 .gt-entry-cats a:hover {
+	color: #28abe3;
+}
+.gt-entries-holder.gt-type-3 .gt-entry-meta a:hover,
+.gt-entries-holder.gt-type-4 .gt-entry-meta a:hover,
+.gt-shopping-cart .gt-product-name:hover,
+.widget .gt-product-name:hover,
+.comment-reply-link:hover,
+.gt-breadcrumbs a:hover,
+.gt-entry-likes.liked span,
+.gt-product.gt-single .gt-product-meta a:hover,
+.gt-coming-soon-section .widget_social_links .gt-social-icons a:hover,
+.gt-header.gt-type-6 .gt-social-icons a:hover > .fa {
+	color: #28abe3;
+}
+.wpcf7-submit,
+.ui-slider-range,
+input[type="radio"] + label::after,
+[class*="gt-btn"],
+[class*="gt-btn"].gt-reverse:hover,
+[class*="gt-btn"].gt-reverse.gt-active,
+.gt-sc-invoker > span:not(.gt-price)::after,
+.gt-title-underline::after,
+.gt-link-underline::after,
+[class*="gt-with-border"]::after,
+.gt-filter.gt-type-3 .gt-active,
+.gt-tabs-holder.gt-type-1 .gt-tabs-nav .gt-active,
+.added_to_cart:hover,
+.add_to_cart_button:hover,
+.product_type_simple:hover,
+.gt-list.gt-type-1 > li::before,
+.gt-type-4 .gt-icon-box .gt-icon-wrap,
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover,
+.gt-counters-holder .gt-counter::after,
+.gt-call-out .widget_wysija input[type="submit"],
+.gt-type-2 .gt-pt-footer .gt-pricing-button,
+.gt-accordion.gt-type-1 .gt-accordion-title.gt-active,
+.gt-toggle.gt-type-1 .gt-toggle-title.gt-active,
+.gt-accordion.gt-type-2 .gt-accordion-title::before,
+.gt-toggle.gt-type-2 .gt-toggle-title::before,
+ol.gt-list.gt-type-3 > li::before,
+ol.gt-list.gt-type-4 > li::before,
+ol.gt-list.gt-type-5 > li::before,
+.gt-pricing-tables-holder.gt-type-1 .gt-pricing-table:hover .gt-pt-header,
+.gt-pricing-tables-holder.gt-type-1 .gt-pricing-table.gt-active .gt-pt-header,
+.gt-entries-holder.gt-small-thumbs .gt-entry-attachment .gt-entry-date,
+.gt-pt-footer .gt-pricing-button:hover,
+.gt-tour-sections-holder.gt-type-3 .gt-tabs-nav .gt-active,
+.gt-tabs-holder.gt-type-3 .gt-tabs-nav .gt-active,
+button.single_add_to_cart_button,
+.search-result-counter .dropcap-result,
+.woocommerce button.single_add_to_cart_button {
+	background-color: #28abe3;
+}
+.owl-prev,
+.owl-next,
+.gt-filter .gt-active,
+.wpcf7-submit:hover,
+.gt-filter a:hover,
+.gt-product-price,
+ul.gt-list i,
+.gt-dropcap.gt-type-1,
+.gt-type-2 .gt-icon-wrap,
+.gt-type-3 .gt-icon-wrap,
+[class*="gt-btn"]:hover,
+.gt-continue-reading-link,
+[class*="gt-btn"].gt-active,
+[class*="gt-btn"].gt-reverse,
+.gt-entries-holder.gt-type-4 .gt-entry-byline a,
+.gt-entries-holder.gt-type-4 .gt-entry-cats a,
+.added_to_cart,
+.add_to_cart_button,
+.product_type_simple,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.woocommerce-info a,
+.widget .wysija-paragraph::after,
+.wishlist_table .add_to_cart.button,
+.gt-pt-footer .gt-pricing-button,
+.gt-type-5 .gt-icon-box .gt-icon-wrap,
+.gt-selected-option::after,
+.gt-pagination .gt-active,
+.nav-links .page-numbers.current,
+.gt-blockquote.gt-type-2,
+.gt-tabs-holder.gt-type-4 .gt-tabs-nav > li > a,
+.gt-type-2 .gt-pt-footer .gt-pricing-button:hover,
+.gt-project.gt-single .gt-project-cats a,
+.gt-tabs-holder.gt-type-1 .gt-tabs-nav > li > a,
+.gt-accordion.gt-type-1 .gt-accordion-title,
+.gt-toggle.gt-type-1 .gt-toggle-title,
+.gt-tour-sections-holder .gt-tabs-nav .gt-active [class*="lnr-"],
+.gt-tour-sections-holder .gt-tabs-nav .gt-active [class*="icon-"],
+.gt-services-holder .gt-service .gt-service-title::before,
+.gt-counter [class^="lnr-"],
+.gt-counter [class^="icon-"],
+.gt-call-out .widget_wysija input[type="submit"]:hover,
+.gt-tour-sections-holder.gt-type-3 .gt-tabs-nav > li > a,
+button.single_add_to_cart_button:hover,
+.gt-settings-view-products .gt-view-type a:hover,
+.gt-settings-view-products .gt-view-type .gt-active,
+.gt-table-holder .order-total,
+.gt-table-holder .order-total td,
+.gt-table-holder tfoot td .woocommerce-Price-amount,
+.gt-table-holder .gt-total,
+.gt-table-holder .gt-total th,
+.gt-table-holder .gt-total td,
+#yith-wcwl-popup-message,
+.gt-entry-meta-item .gt-social-icons a:hover,
+.gt-section .gatsby_widget_instagram .widgettitle:before,
+.woocommerce .gt-product button.single_add_to_cart_button:hover,
+.woocommerce-account .woocommerce-MyAccount-navigation li:hover > a,
+.woocommerce-account .woocommerce-MyAccount-navigation li.is-active > a,
+.yith-wcwl-add-to-wishlist .yith-wcwl-wishlistaddedbrowse > a:before,
+.yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse > a:before,
+ul.product_list_widget .gt-product-info del,
+ul.product_list_widget .gt-product-info ins,
+ul.product_list_widget .gt-product-info .amount,
+.gt-product.gt-single .gt-product-price {
+	color: #28abe3;
+}
+blockquote,
+.wpcf7-submit,
+[class*="gt-btn"],
+.gt-filter .gt-active,
+.gt-continue-reading-link,
+.gt-type-1 .gt-icon-box .gt-icon-wrap,
+.added_to_cart,
+.add_to_cart_button,
+.product_type_simple,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.wishlist_table .add_to_cart.button,
+.gt-tabs-holder.gt-type-1 .gt-tabs-nav,
+.gt-call-out .widget_wysija input[type="submit"],
+.gt-pt-footer .gt-pricing-button,
+.gt-accordion.gt-type-1 .gt-accordion-title,
+.gt-toggle.gt-type-1 .gt-toggle-title,
+.gt-flexbox .gt-tabs-holder.gt-type-1 .gt-tabs-nav > li > a::before,
+.gt-flexbox .gt-tabs-holder.gt-type-1 .gt-tabs-nav > li > a::after,
+.gt-image-preview-container .gt-product-thumbs .active:not(.owl-item) img,
+input[type="checkbox"] + label::after,
+.woocommerce-MyAccount-content fieldset,
+#yith-wcwl-popup-message,
+.woocommerce-account .woocommerce-MyAccount-navigation li:hover > a,
+.woocommerce-account .woocommerce-MyAccount-navigation li.is-active > a {
+	border-color: #28abe3;
+}
+.gt-selected-option::after,
+.gt-tabs-holder.gt-type-2 .gt-tabs-nav > li > a::after,
+.gt-qty-btn-down::before {
+	border-top-color: #28abe3;
+}
+.gt-csstransforms3d .gt-accordion.gt-type-1 .gt-accordion-title::after,
+.gt-csstransforms3d .gt-toggle.gt-type-1 .gt-toggle-title::after {
+	border-left-color: #28abe3;
+}
+.gt-tabs-holder.gt-type-2 .gt-tabs-nav .gt-active,
+.gt-qty-btn-up::before {
+	border-bottom-color: #28abe3;
+}
+.wpb_single_image .vc_single_image-wrapper.vc_box_shadow_border {
+	box-shadow: 12px -12px 0 0 #28abe3;
+}
+.gt-sc-invoker:hover,
+.gt-sc-invoker.gt-opened,
+.gt-dropdown-invoker.gt-opened,
+.gt-header.gt-light .gt-sc-invoker:hover > span:not(.gt-price),
+.gt-header.gt-light .gt-sc-invoker.gt-opened > span:not(.gt-price) {
+	color: #28abe3;
+}
+.gt-lightbox::after,
+.gt-link-attachment::before,
+.gt-blockquote-attachment::before,
+.gt-audio-poster::before,
+.gt-portfolio-holder.gt-type-1 .gt-project-image::after,
+.gt-portfolio-holder.gt-type-3 .gt-project-description,
+.gt-team-holder.gt-hover .gt-member-photo::before {
+	background-color: rgba(40, 171, 227, 0.7);
+}
+[class*="-layout-type"] {
+	background-color: #ffffff;
+}
+.gt-entry-author,
+.gt-table-holder,
+.gt-accordion.gt-type-1 .gt-accordion-title,
+.gt-toggle.gt-type-1 .gt-toggle-title,
+.gt-accordion.gt-type-2 .gt-accordion-title::before,
+.gt-toggle.gt-type-2 .gt-toggle-title::before {
+	border-radius: 8px;
+}
+.widget,
+.gt-member-photo,
+.gt-options-list,
+.widget .tagcloud a,
+.gt-page-navigation ul.children,
+.gt-navigation > li > .gt-dropdown,
+.gt-navigation > li li > ul.sub-menu,
+.gt-navigation > li li > ul.children,
+.gt-shopping-cart.gt-dropdown,
+.search-result-counter .dropcap-result,
+.gt-breadcrumbs-wrap .gt-entry-cats > li > a,
+.gt-breadcrumbs-wrap .post-categories > li > a,
+.gt-shopping-cart-full .gt-product-image,
+.gt-shopping-cart .gt-products-holder .gt-product-image,
+.widget .gt-products-holder .gt-product-image,
+.gt-image-preview-container .gt-product-thumbs img {
+	border-radius: 5px;
+}
+.gt-lightbox,
+.gt-alert-box-inner,
+.gt-entries-holder.gt-type-3 .gt-entry-attachment > *,
+.gt-entries-holder.gt-type-4 .gt-entry-attachment > *,
+.gt-team-holder.gt-type-2 .gt-member-photo,
+.gt-pbar,
+.gt-pbar-inner,
+.gt-accordion.gt-type-2 .gt-accordion-title::before,
+.gt-toggle.gt-type-2 .gt-toggle-title::before,
+.gt-qty.gt-type-2 input:not([type="submit"]),
+.gt-product.gt-single .gt-qty input:not([type="submit"]),
+.gt-entries-holder.gt-type-1 .sticky-post {
+	border-radius: 10px;
+}
+a.advanced-menu-hide {
+	border-radius: 0 10px 10px 0;
+}
+.gt-selected-option,
+.gt-compressed,
+.wpcf7 select,
+table.variations select,
+.shipping-calculator select,
+.woocommerce-page .select2-container,
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="search"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="url"],
+input[type="tel"],
+textarea {
+	border-radius: 22px;
+}
+.gt-pricing-table,
+.gt-qty input:not([type='submit']) {
+	border-radius: 15px;
+}
+.gt-label {
+	border-radius: 0 15px 15px 0;
+}
+.gt-filter a,
+.woocommerce-account .woocommerce-MyAccount-navigation li > a {
+	border-radius: 20px;
+}
+.gt-call-out .widget_wysija .wysija-input,
+.woocommerce .gt-switch-view,
+.woocommerce .gt-switch-mode,
+[class*="gt-btn"].gt-icon {
+	border-radius: 29px;
+}
+.gt-call-out .widget_wysija input[type='submit'] {
+	border-radius: 0 29px 29px 0;
+}
+.gt-pricing-tables-holder.gt-type-1:not(.gt-cols-4) .gt-pt-header {
+	border-radius: 34px;
+}
+.gt-button-container [class*="gt-btn"].gt-rounded {
+	border-radius: 8px;
+}
+.added_to_cart,
+.add_to_cart_button,
+.product_type_simple,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.wishlist_table .add_to_cart.button,
+#yith-wcwl-popup-message {
+	border-radius: 22px;
+}
+.gt-btn-3,
+.gt-pt-footer .gt-pricing-button {
+	border-radius: 25px;
+}
+.wpcf7-submit,
+.gt-btn-3.gt-large,
+.gt-call-out .gt-cta-button,
+button.single_add_to_cart_button,
+.woocommerce button.single_add_to_cart_button,
+.gt-button-container [class*='gt-btn'].gt-round {
+	border-radius: 29px;
+}
+.gt-header.gt-dark,
+.gt-header.gt-dim.gt-over,
+.gt-header.gt-transparent.gt-over {
+	background-color: #17191c;
+}
+.gt-navigation a {
+	font-family: Raleway;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 28px;
+}
+.gt-header.gt-type-1 .gt-navigation > li > a,
+.gt-header.gt-type-7 .gt-navigation > li > a,
+.gt-header.gt-type-8 .gt-navigation > li > a,
+.gt-header.gt-type-9 .gt-navigation > li > a {
+	color: #ffffff;
+}
+.gt-header.gt-type-1 .gt-navigation > li > a,
+.gt-header.gt-type-7 .gt-navigation > li > a,
+.gt-header.gt-type-8 .gt-navigation > li > a,
+.gt-header.gt-type-9 .gt-navigation > li > a {
+	text-transform: initial;
+}
+.gt-header.gt-type-1 .gt-navigation > li.current-menu-item > a,
+.gt-header.gt-type-1 .gt-navigation > li.current-menu-parent > a,
+.gt-header.gt-type-1 .gt-navigation > li.current-menu-ancestor > a,
+.gt-header.gt-type-1 .gt-navigation > li.current_page_item > a,
+.gt-header.gt-type-1 .gt-navigation > li.current_page_parent > a,
+.gt-header.gt-type-1 .gt-navigation > li.current_page_ancestor > a,
+.gt-header.gt-type-1 .gt-navigation > li:hover > a {
+	color: #28abe3;
+}
+.gt-header.gt-type-6 .gt-navigation > li > a {
+	color: #17191c;
+}
+.gt-header.gt-type-6 .gt-navigation > li > a {
+	text-transform: initial;
+}
+.gt-header.gt-type-2 .gt-navigation > li > a,
+.gt-header.gt-type-3 .gt-navigation > li > a,
+.gt-header.gt-type-4 .gt-navigation > li > a,
+.gt-header.gt-type-5 .gt-navigation > li > a {
+	color: #17191c;
+	text-transform: uppercase;
+}
+.gt-header.gt-type-2 .gt-navigation > li.current-menu-item > a,
+.gt-header.gt-type-3 .gt-navigation > li.current-menu-item > a,
+.gt-header.gt-type-4 .gt-navigation > li.current-menu-item > a,
+.gt-header.gt-type-5 .gt-navigation > li.current-menu-item > a,
+.gt-header.gt-type-2 .gt-navigation > li.current-menu-parent > a,
+.gt-header.gt-type-3 .gt-navigation > li.current-menu-parent > a,
+.gt-header.gt-type-4 .gt-navigation > li.current-menu-parent > a,
+.gt-header.gt-type-5 .gt-navigation > li.current-menu-parent > a,
+.gt-header.gt-type-2 .gt-navigation > li.current-menu-ancestor > a,
+.gt-header.gt-type-3 .gt-navigation > li.current-menu-ancestor > a,
+.gt-header.gt-type-4 .gt-navigation > li.current-menu-ancestor > a,
+.gt-header.gt-type-5 .gt-navigation > li.current-menu-ancestor > a,
+.gt-header.gt-type-2 .gt-navigation > li.current_page_item > a,
+.gt-header.gt-type-3 .gt-navigation > li.current_page_item > a,
+.gt-header.gt-type-4 .gt-navigation > li.current_page_item > a,
+.gt-header.gt-type-5 .gt-navigation > li.current_page_item > a,
+.gt-header.gt-type-2 .gt-navigation > li.current_page_parent > a,
+.gt-header.gt-type-3 .gt-navigation > li.current_page_parent > a,
+.gt-header.gt-type-4 .gt-navigation > li.current_page_parent > a,
+.gt-header.gt-type-5 .gt-navigation > li.current_page_parent > a,
+.gt-header.gt-type-2 .gt-navigation > li.current_page_ancestor > a,
+.gt-header.gt-type-3 .gt-navigation > li.current_page_ancestor > a,
+.gt-header.gt-type-4 .gt-navigation > li.current_page_ancestor > a,
+.gt-header.gt-type-5 .gt-navigation > li.current_page_ancestor > a,
+.gt-header.gt-type-2 .gt-navigation > li:hover > a,
+.gt-header.gt-type-3 .gt-navigation > li:hover > a,
+.gt-header.gt-type-4 .gt-navigation > li:hover > a,
+.gt-header.gt-type-5 .gt-navigation > li:hover > a {
+	color: #28abe3;
+}
+.gt-navigation.gt-overlined > li > a::before,
+.gt-navigation.gt-underlined > li > a::before {
+	border-top-color: #28abe3;
+}
+.gt-header.gt-type-6 .gt-navigation > li > a::before,
+.gt-header.gt-type-7 .gt-navigation > li > a::before,
+.gt-header.gt-type-9 .gt-navigation > li > a::before {
+	border-bottom-color: #28abe3;
+}
+.gt-navigation > li.multicolumn > .gt-dropdown > ul.sub-menu > li > a {
+	color: #333333;
+}
+.gt-navigation ul.sub-menu li > a,
+.gt-navigation ul.children li > a {
+	font-family: Raleway;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 20px;
+	color: #5f6366;
+}
+.gt-navigation ul.sub-menu > li.current-menu-item > li.current-menu-parent > li.current-menu-ancestor > li.current_page_item > li.current_page_parent > li.current_page_ancestor > a,
+.gt-navigation ul.children > li.current-menu-item > li.current-menu-parent > li.current-menu-ancestor > li.current_page_item > li.current_page_parent > li.current_page_ancestor > a,
+.gt-navigation ul.sub-menu > li:hover > a,
+.gt-navigation ul.children > li:hover > a {
+	color: #28abe3;
+}
+.gt-navigation > li > .gt-dropdown {
+	background-color: #fcfcfc;
+}
+.gt-navigation > li li > ul.sub-menu,
+.gt-navigation > li li > ul.children {
+	background-color: #fcfcfc;
+}
+.gt-footer {
+	background-color: #17191c;
+	background-image: url(//velikorodnov.com/dev/devgatsby/wp-content/themes/gatsby/images/footer-bg.png);
+	color: #ffffff;
+}
+.gt-footer .gt-widget-title,
+.gt-footer .gt-sub-nav li a {
+	color: #ffffff;
+}
+.gt-footer .widget li a {
+	color: #c5cdce;
+}
+.gt-footer .widget li a:hover {
+	color: #28abe3;
+}
+.gt-footer .gt-sub-nav li a:hover {
+	color: #28abe3;
+}
+.gt-footer .widget .latest-tweets li a {
+	color: #28abe3;
+}
+.gt-footer .widget .latest-tweets li a:hover {
+	color: #ffffff;
+}
+.gt-footer .gt-hr-list li a,
+.gt-footer .gt-social-icons a {
+	color: #ffffff;
+}
+.gt-footer .gt-hr-list li a:hover,
+.gt-footer .gt-social-icons a:hover {
+	color: #28abe3;
+}
+.gt-footer .widget select {
+	color: #5f6366;
+}
+body.post-type-archive-product .gt-wide-layout-type,
+body.woocommerce-page .gt-wide-layout-type {
+	background-color: #fcfcfc;
+}
+.gt-label {
+	background-color: #20d76e;
+}
+.gt-label.gt-sale {
+	background-color: #ce2929;
+}
+.gt-label.gt-out-of-stock {
+	background-color: #cccccc;
+}
